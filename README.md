@@ -42,7 +42,7 @@ The script will:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Sen-Se1/monitor_project
+   git clone https://github.com/AzouzTarek/monitor_project
    cd monitor_project
    ```
 
